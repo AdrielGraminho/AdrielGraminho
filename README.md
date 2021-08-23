@@ -12,5 +12,4 @@
 
   ##
   
-    ![Snake animation](https://github.com/AdrielGramimjo/AdrielGraminho/blob/output/github-contribution-grid-snake.svg)
 
