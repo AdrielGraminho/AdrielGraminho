@@ -1,6 +1,6 @@
 ### Bem vindo! 👋
 
-- 🔭 Trabalho com Java (Spring) e React para Web
+- 🔭 Trabalho com Java (Spring), Flutter e React para Web
 - 🌱 Estou aprendendo sobre desenvolvimento mobile com React-native
 - 💬 Fale comigo: adrielgraminho@gmail.com
 
